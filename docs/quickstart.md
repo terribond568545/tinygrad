@@ -303,3 +303,5 @@ You can find a full list and their descriptions in [env_vars.md](env_vars.md).
 ### Visualizing the Computation Graph
 
 It is possible to visualize the computation graph of a neural network using VIZ=1.
+
+<!-- Auto-update: 2025-10-06T12:53:59.310436 -->
