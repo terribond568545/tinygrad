@@ -67,3 +67,4 @@ examples/mlperf/training_submission_v5.0/tinycorp/benchmarks/bert/implementation
 ```
 examples/mlperf/training_submission_v5.0/tinycorp/benchmarks/bert/implementations/tinybox_8xMI300X/run_and_time.sh
 ```
+<!-- Auto-update: 2025-10-06T09:55:13.744711 -->
